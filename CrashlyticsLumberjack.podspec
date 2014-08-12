@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://github.com/TechSmith/CrashlyticsLumberjack"
   s.license      = { :type => 'BSD', :file => 'LICENSE' }
   s.author       = { "Mike Simons" => "m.simons@techsmith.com" }
-  s.source       = { :git => "https://github.com/TechSmith/CrashlyticsLumberjack.git", :tag => 'v1.0.1' }
+  s.source       = { :git => "https://github.com/TechSmith/CrashlyticsLumberjack.git", :tag => s.version.to_s }
 
   s.source_files  = 'Source', 'Source/CrashlyticsLogger.{h,m}'
   s.framework     = 'Crashlytics'
