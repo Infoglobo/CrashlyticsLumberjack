@@ -1,3 +1,6 @@
+NÃO APAGAR, UTILIZADO NO EXTRA NOTÍCIAS - VERIFICAR PODFILE ANTES DE APAGAR
+=====================
+
 CrashlyticsLumberjack
 =====================
 
